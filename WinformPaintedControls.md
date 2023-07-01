@@ -14,7 +14,7 @@
 
 Було створено:
 
-- [CustomButton](##CustomButton)
+- [CustomButton](#CustomButton)
 
 - [CustomCheckBox](#CustomCheckBox)
 
